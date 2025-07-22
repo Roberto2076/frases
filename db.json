@@ -3,17 +3,17 @@
         {
             "id": 1,
             "quote": "Quien teme llorar, debe aprender a ser amable con quienes lloran.",
-            "autor": "Abu Bakr."
+            "author": "Abu Bakr."
         },
         {
             "id": 2,
             "quote": "Los amantes no se encuentran finalmente en algún lugar. Están el uno en el otro todo el tiempo.",
-            "autor": "Rumi."
+            "author": "Rumi."
         },
         {
             "id": 3,
             "quote": "Oigo y olvido. Veo y recuerdo. Hago y comprendo.",
-            "autor": "Confucio."
+            "author": "Confucio."
         }
     ],
     "profile":{
