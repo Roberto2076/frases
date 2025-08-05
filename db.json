@@ -14,9 +14,40 @@
             "id": 3,
             "quote": "Oigo y olvido. Veo y recuerdo. Hago y comprendo.",
             "author": "Confucio."
-        }
+        },
+        {
+            "id": 4,
+            "quote": "Y para estar total, completa, absoltamente enamorado, hay que tener plena conciencia de que uno tambien es querido, que uno tambien inspira amor.",
+            "author": "Mario Benetti."
+        },
+        {
+            "id": 5,
+            "quote": "La mejor manera de ser feliz aprender a ser feliz solo, asi la compañia es una cuestion de eleccion y no de necesidad.",
+            "author": "Mario Benetti."
+        },
+        {
+            "id": 6,
+            "quote": "No te rindas, por favor no cedas, aunque el frio queme, aunque el miedo muerda, aunque el sol se ponga y se calle el viento.",
+            "author": "Mario Benetti."
+        },
+        {
+            "id": 7,
+            "quote": "Que llege quien tenga que llegar, que se vaya quien se tenga que ir, que duela lo que tenga que doler, que pase lo que tenga que pasar.",
+            "author": "Mario Benetti."
+        },
+        {
+            "id": 8,
+            "quote": "La mariposa recordara por siempre que fue gusano.",
+            "author": "Mario Benetti."
+        },
+        {
+            "id": 9,
+            "quote": "La perfeccion es una pulida coleccion de errores",
+            "author": "Mario Benetti."
+        },
     ],
     "profile":{
         "name": "Roberto2076"
     }
 }
+
